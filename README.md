@@ -23,3 +23,9 @@ And the following Android-specific dependencies:
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Navigation component](https://developer.android.com/jetpack/compose/navigation)
 - [Coil](https://github.com/coil-kt/coil) for image loading
+
+### Interview Details
+
+- Complete the 4 "TODO" in KMP and iOS code. Those completions are about KMP/Koin injection inside the iOS app. On the iOS part, you need to complete injection from KMP and the `DetailView.swift`
+- Propose an analysis of the key points of the app architecture, at least KMP & iOS side
+- Introduce the iOS DI framework of your choice with an example in the current context. You can present several solutions with pros/cons
